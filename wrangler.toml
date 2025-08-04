@@ -1,0 +1,10 @@
+name = "asn-info-page"
+type = "javascript"
+
+[build]
+  command = ""
+  upload_format = "service-worker"
+
+[dev]
+  command = "npm run dev"
+  port = 8787
